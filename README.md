@@ -8,9 +8,10 @@ Two modes:
 
 Guest access is available for emergency features — no account required.
 
-Test account credentials:
-email: test@example.com
-password: 123123
+**Test account credentials:**
+- email: `test@example.com`
+- password: `123123`
+
 ---
 
 ## Prerequisites
