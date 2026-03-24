@@ -52,6 +52,7 @@ app.*.map.json
 # Hive database files
 *.hive
 *.lock
+!pubspec.lock
 
 # Flutter plugins
 .flutter-plugins
